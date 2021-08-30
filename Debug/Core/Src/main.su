@@ -1,0 +1,16 @@
+main.c:104:6:poll_keypad	16	static
+main.c:158:6:print_LCD	16	static
+main.c:169:6:clear_LCD	8	static
+main.c:176:6:open_door	16	static
+main.c:193:6:close_door	16	static
+main.c:210:6:close_door_after_collision	16	static
+main.c:226:6:stop_door	4	static
+main.c:237:5:main	24	static
+main.c:518:6:SystemClock_Config	88	static
+main.c:558:13:MX_TIM1_Init	32	static
+main.c:604:13:MX_TIM2_Init	64	static
+main.c:663:13:MX_TIM3_Init	64	static
+main.c:726:13:MX_USART6_UART_Init	8	static
+main.c:759:13:MX_GPIO_Init	48	static
+main.c:837:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:883:6:Error_Handler	4	static,ignoring_inline_asm
